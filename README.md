@@ -13,4 +13,4 @@ Web3, streamlit, dataclass from dataclasses, and Any, List from typing
 -Ganache Test Account that paid Lane 6ETH for 30 hours of work.
 
 ![431236F2-FF86-44BC-BF0F-F61CA7291D59_4_5005_c](https://user-images.githubusercontent.com/98767273/182918385-f1450d5a-e639-4739-953d-7b2ab250f112.jpeg)
--transaction block in Ganache.
+-Transaction block in Ganache.
